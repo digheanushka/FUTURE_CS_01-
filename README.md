@@ -4,6 +4,7 @@ The assessment focused on identifying and
 mitigating common web appication vulnerabilities.
 
 Vunerabilities Tested
+
   1. SQL Injection (SQLi)
        Payload: ' OR 1=1--
        Impact:Logged in without valid
@@ -19,11 +20,13 @@ Vunerabilities Tested
        usernames,allowing enumeration.
      
 Tool Used
+
   OWASP ZAP
   Brup Suite
   SQLMap
 
 Key Takeaways
+
   Hands-on experience in identifying and
   documenting vulnerailities.
   Understanding of secure coding practices 
