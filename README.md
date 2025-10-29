@@ -1,9 +1,9 @@
-# FUTURE_CS_01-
+## FUTURE_CS_01-
 Web application security testing report 
 The assessment focused on identifying and 
 mitigating common web appication vulnerabilities.
 
-Vunerabilities Tested
+##Vunerabilities Tested
 
   1. SQL Injection (SQLi)
        Payload: ' OR 1=1--
@@ -19,13 +19,14 @@ Vunerabilities Tested
        different responses for valid/invalid
        usernames,allowing enumeration.
      
-Tool Used
+
+##Tool Used
 
   OWASP ZAP
   Brup Suite
   SQLMap
 
-Key Takeaways
+##Key Takeaways
 
   Hands-on experience in identifying and
   documenting vulnerailities.
